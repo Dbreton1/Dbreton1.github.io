@@ -1,6 +1,12 @@
 h1 {
   color: white
 } 
+.col {
+  background-color: black
+}
+.platains {
+  background-color: red
+}
 div {
   background-color: black;
 }
